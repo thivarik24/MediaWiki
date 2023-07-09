@@ -1,0 +1,23 @@
+Good Morning Team,
+
+
+MEDIAWIKI PROBLEM STATEMENT
+
+We want to automate the deployment of MediaWiki using.
+
+1. Kubernetes with Helm Chart/ any equivalent automation with its own Dockerfiles for application and database.
+2. Terraform or any IaC tool with any Configuration Management tool integrated.
+ 
+
+Choose only one of your comfort.
+The above automation should support CI/CD practices of chosen deployment styles like Rolling Update or BlueGreen Deployment. (Optional)
+(No Docker compose)
+We want to assess your learnability and your current knowledge of config management systems.
+
+
+-------------------------------------------------------I have chosen the 1st one------------------------------------------------------
+
+Here, I did a step-by-step Process. for MediaWiki application downloading the Manual Installations. 
+What happend is that I did upto the Kubernetes config file aned Deployment file. I used Third party VM's (EC2)AWS, Unfortunately THE ACCOUNT HAS SUSPENDED.
+I Will Attach a screenshots upto now, and I'll try to do in a Different 
+VM's like GCP cluster, because account has been suspended I am unable to do the next steps.
