@@ -21,3 +21,12 @@ Here, I did a step-by-step Process. for MediaWiki application downloading the Ma
 What happend is that I did upto the Kubernetes config file aned Deployment file. I used Third party VM's (EC2)AWS, Unfortunately THE ACCOUNT HAS SUSPENDED.
 I Will Attach a screenshots upto now, and I'll try to do in a Different 
 VM's like GCP cluster, because account has been suspended I am unable to do the next steps.
+
+HERE ARE THE Steps Ehat I have done
+
+1. I have deployed  the MEDIAWIKI application in apache2.---------------> (Apache2
+2. I have Written a Docker file for application and Database-------------> (Docker)
+3. I build the images for Docker files and I pushed to DockerHub ---------> (DockerHub)
+4. I installed the Kubernetes kubeadm, cluster and I have written the Deployment file and service file.------->(kubernetes)
+
+-----------------------------THE AWS ACCOUNT HAS BEEN LOCKED , I'LL TRY TO DO EVERYTHING NEW UNTILL THEN PLEASE VALIDATE THIS PROOF ------------------
